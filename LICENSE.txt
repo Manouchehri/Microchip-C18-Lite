@@ -1,0 +1,67 @@
+IMPORTANT
+YOU MUST ACCEPT THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT TO RECEIVE A LICENSE FOR THE ACCOMPANYING SOFTWARE. TO ACCEPT THE TERMS OF THIS LICENSE, CLICK "I ACCEPT" OR OPEN THIS PACKAGE AND PROCEED WITH THE DOWNLOAD OR INSTALL. IF YOU DO NOT ACCEPT THESE LICENSE TERMS, CLICK "I DO NOT ACCEPT," OR DO NOT OPEN THIS PACKAGE, DOWNLOAD, OR INSTALL THIS SOFTWARE.
+
+MPLAB(R) C18 COMPILER LICENSE
+
+This License Agreement ("Agreement") is a contract between You (as an individual or single entity) and Microchip Technology Incorporated ("Company") for the MPLAB C18 Compiler software accompanying this Agreement ("Software"). Except as provided below, Software shall include associated media, printed materials, "online" or electronic documentation, and the free software described in Section 1 below. In consideration for access to the Software, You agree to be bound by this Agreement.
+
+1.	FREE SOFTWARE. Portions of the Software are based on the command-line options processing source code copyrighted by Red Hat Software. The Red Hat source code and accompanying documentation files ("Red Hat Source Code") is offered with the Software licensed under this Agreement. Permission is hereby granted, free of charge, to any person obtaining a copy of this Software to deal in the Red Hat Source Code only without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of Red Hat Source Code, and to permit persons to whom the Red Hat Source Code is furnished to do so, provided that the permission notice (provided in the file in the preprocessor source code called, "COPYING") and the following copyright notice are included in all copies or substantial portions of the Red Hat Source Code:
+
+	Copyright (c) 1998 Red Hat Software
+
+Portions of the Software are based on C parser source code copyrighted by James A. Roskind ("Roskind Source Code"). With regard to Roskind Source Code (which is not offered with the Software), no royalties, licenses or commissions of any kind are required to copy such code, its translations, or derivative products provided that the following copyright notice appears in keeping with copyright law:
+
+	Copyright (c) 1989, 1990 James A. Roskind
+
+2.	LICENSE GRANT. Subject to all of the terms and conditions of this Agreement, Company grants You a non-exclusive, non-sublicensable, non-transferable license to install Software on a single computer and use the Software with Company products. Notwithstanding the foregoing, if You downloaded the "Student Edition" of the Software from the web, You may install and use such version of the Software on an unlimited number of computers for commercial or educational use.
+
+You may modify the Software runtime libraries at your discretion and risk. For purposes of clarity, such modifications constitute derivatives of the Software subject to the terms of Section 3 below.
+
+You may not reverse engineer (by disassembly, decompilation, translation, or otherwise) Software and may not copy or reproduce all or any portion of Software, except to the extent that such activity is specifically allowed by this Agreement or expressly permitted by applicable law notwithstanding the foregoing limitations.
+
+All copies of the Software created by You or for You, including derivatives, must include the copyright, trademark and other proprietary notices as they appear on the original. You may not remove or alter any identifying screen that is produced by the Software.
+
+3.	OWNERSHIP AND TITLE. Software is licensed pursuant to the Agreement, not sold. Except for the free software described in Section 1, all right, title and interest, including intellectual property rights, in and to Software, derivatives thereof, implementation of the Software in microcontrollers, and hardware and software implementations of Software or derivatives shall remain in Company. You will not obtain ownership rights to derivatives of Software, and by accepting the terms of this Agreement assign any such rights to Company that You do receive. Except as specifically stated in the Agreement, You are granted no other rights, express or implied, to the Software, derivatives thereof, or other Company intellectual property such as trade secrets, patents, copyrights, and trademarks.
+
+4.	CONFIDENTIALITY. Except for the free software described in Section 1 above, You agree not to disclose Software or derivatives to any third party. To the extent that Software becomes part of the public domain, is independently developed, or obtained free from any obligation of confidentiality then the obligation of confidentiality under this Agreement shall not apply.
+
+5.	TERMINATION OF AGREEMENT. Without prejudice to any other rights, Company or licensors may terminate this Agreement if You fail to comply with the terms and conditions of this Agreement. Upon termination, You will stop using the Software, derivatives thereof, and immediately destroy all copies of the Software and derivatives, except for the free software described in Section 1 above.
+
+6.	COPYRIGHT. The Software is protected by U.S. copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+7.	DANGEROUS APPLICATIONS. You warrant that You will not use Software or derivatives in a dangerous, hazardous, or life supporting application where the failure of such application could lead directly to death, personal injury, or environmental damage.
+
+8.	INDEMNITY. You will indemnify and hold Company and its licensors, its related companies and its suppliers, harmless for, from and against, any claims, costs (including attorney's fees), damages or liabilities, including without limitation product liability claims, arising out of (a) use and distribution of the Software and derivatives, or (b) violation of this Agreement.
+
+9.	NO WARRANTY. TO THE MAXIMUM EXTENT PERMITTED BY LAW, COMPANY AND ITS LICENSORS PROVIDE SOFTWARE "AS IS" AND EXPRESSLY DISCLAIM ANY WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. YOU ASSUME THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF SOFTWARE, AS WELL AS ANY DERIVATIVES OF THE SOFTWARE MADE FOR YOU OR ON YOUR BEHALF. COMPANY AND ITS LICENSORS ASSUME NO RESPONSIBILITY FOR THE ACCURACY OR ERRORS OR OMISSIONS OF SOFTWARE AND DO NOT WARRANT THE FOLLOWING: (A) THE FUNCTIONS CONTAINED IN SOFTWARE WILL MEET YOUR REQUIREMENTS, (B) THE OPERATION OF SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR (C) ANY DEFECTS IN SOFTWARE WILL BE CORRECTED.
+
+10.	PATENT AND COPYRIGHT INFRINGEMENT. SUBJECT TO THE CONDITIONS STATED IN THIS SECTION 10 AND THE FOLLOWING SECTION 11 REGARDING LIMITATIONS OF LIABILITY, COMPANY WILL DEFEND ANY SUIT OR PROCEEDING BROUGHT AGAINST YOU TO THE EXTENT IT IS BASED ON A CLAIM THAT SOFTWARE MANUFACTURED AND SUPPLIED BY THE COMPANY TO YOU CONSTITUTES DIRECT INFRINGEMENT OF A PATENT OR COPYRIGHT ("CLAIM"), EXCEPT WHERE THE ALLEGED CLAIM IS BASED ON:
+(A) THE COMPANY'S COMPLIANCE WITH YOUR DESIGNS OR SPECIFICATIONS;
+(B) YOUR USE OF SOFTWARE IN COMBINATION WITH ANY OTHER PRODUCT OR PROCESS, INCLUDING BUT NOT LIMITED TO INTEGRATING SOFTWARE INTO A SYSTEM, WHETHER DIRECT OR CONTRIBUTORY INFRINGEMENT;
+(C) MODIFICATION OF SOFTWARE AFTER COMPANY DELIVERED IT;
+(D) YOUR USE OF SOFTWARE IN A MANNER FOR WHICH IT IS NOT DESIGNED;
+(E) 1998 RED HAT SOURCE CODE; OR (F) ROSKIND SOURCE CODE.
+
+11.	LIMITATION OF LIABILITY.
+
+A.  IN GENERAL. TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL COMPANY OR ITS LICENSORS BE LIABLE, WHETHER IN CONTRACT, WARRANTY, REPRESENTATION, TORT (INCLUDING NEGLIGENCE OR BREACH OF STATUTORY DUTY), STRICT LIABILITY, INDEMNITY, CONTRIBUTION OR OTHERWISE, FOR ANY INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY, INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND WHATSOEVER, HOWSOEVER CAUSED, OR ANY LOSS OF PRODUCTION, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SOFTWARE, LOSS OF CAPITAL, LOSS OF SOFTWARE, LOSS OF DATA, LOSS OF PROFIT, LOSS OF REVENUES, CONTRACTS, BUSINESS, COST OF REWORK, LOSS OF GOODWILL OR ANTICIPATED SAVINGS, WASTED EXPENSES, OR WASTED MANAGEMENT TIME, EVEN IF COMPANY OR ITS LICENSORS HAS BEEN ADVISED OF THEIR POSSIBILITY OR THEY ARE FORESEEABLE.
+
+B.  AGGREGATE LIMIT OF LIABILITY. SUBJECT TO SECTIONS ABOVE REGARDING LIMITED PRODUCT LIABILITY, PATENT AND COPYRIGHT INFRINGEMENT, AND THIS SECTION 11 (PARAGRAPHS A, C, AND D), THE COMPANY AND ITS LICENSORS TOTAL AGGREGATE LIABILITY IN CONTRACT, WARRANTY, REPRESENTATION, TORT (INCLUDING NEGLIGENCE OR BREACH OF STATUTORY DUTY), STRICT LIABILITY, INDEMNITY, CONTRIBUTION, OR OTHERWISE, SHALL NOT EXCEED THE LICENSE FEE PAID FOR THE SOFTWARE; PROVIDED THAT, WITH RESPECT TO THE STUDENT EDITION OF THE SOFTWARE DOWNLOADED FROM THE WEB, THE COMPANY AND ITS LICENSORS TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED $100.
+
+C.  DEATH AND PERSONAL INJURY. NOTHING IN THIS ACKNOWLEDGMENT SHALL EXCLUDE OR LIMIT THE LIABILITY OF EITHER PARTY FOR DEATH OR PERSONAL INJURY ARISING FROM NEGLIGENCE OR ANY OTHER LIABILITY NOT EXCLUDABLE BY LAW.
+
+D.  YOUR RESPONSIBILITY FOR PRODUCTS AND PROCESSES. WITHOUT AFFECTING THE COMPANY'S RESPONSIBILITIES TO YOU UNDER THIS ACKNOWLEDGMENT AND TO THE FULLEST EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU ARE SOLELY RESPONSIBLE FOR: (I) ANY PRODUCT OR PROCESS USING OR INCORPORATING THE SOFTWARE; (II) TESTING THE SOFTWARE AND DETERMINING THEIR SUITABILITY FOR YOUR APPLICATION, PRODUCT OR PROCESS; AND (III) DETERMINING WHETHER YOUR PRODUCTS OR SYSTEMS USING SOFTWARE INFRINGE THIRD-PARTY PATENTS, COPYRIGHTS, OR OTHER PROPRIETARY RIGHTS.
+
+12.	SURVIVAL. Sections 1, 3-6, 8-14 and 16 shall survive termination of this License. Further, Your obligation not to reverse engineer, copy or reproduce Software, as described in Section 2 above, shall survive termination.
+
+13.	CHOICE OF LAW; VENUE; LIMITATIONS ON CLAIMS. You agree that this Agreement and any conflicts regarding Software, shall be construed, interpreted and governed by the laws of the State of Arizona, U.S.A. without regard to any conflict of laws provision. You agree that any litigation will be subject to the exclusive jurisdiction of the state or federal courts in Arizona, U.S.A. You agree that regardless of any law to the contrary, any cause of action related to or arising out of this Agreement or Software must be filed within one year after such cause of action arose, or be considered waived.
+
+14.	EXPORT COMPLIANCE. Your use of Software must comply with all U.S. laws, restrictions and regulations. You agree that you will not violate export restrictions of the U.S. Department of Commerce or other United States or foreign agency or authority.
+
+15.	ASSIGNMENT. Neither this agreement nor any rights, licenses or obligations hereunder, may be assigned by you without the prior written approval of the Company.
+
+16.	ENTIRE AGREEMENT, MODIFICATIONS AND WAIVER. This Agreement constitutes the entire agreement of the parties with respect to the subject matter of this Agreement, and merges and supersedes all communications relating to this subject matter, whether written or oral. Except as expressly set forth in this Agreement, no modification of this Agreement will be effective unless made in writing signed by Company or licensors. No failure or delay by Company or its licensors to assert any rights or remedies arising from a breach of this Agreement shall be construed as a waiver or a continuing waiver of such rights and remedies, nor shall failure or delay to assert a breach be deemed to waive that or any other breach. If any part of this Agreement is found by a court of competent jurisdiction to be invalid, unlawful or unenforceable then such part shall be severed from the remainder of this Agreement and replaced with a valid provision that comes closest to the intention underlying the invalid provision.
+
+MPLAB(R) C18 Compiler software. Copyright (c) 2000 Microchip Technology Inc. All rights reserved.
+Command-line options processing source code. Copyright (c) 1998 Red Hat Software. All rights reserved.
+C parser source code. Copyright (c) 1989, 1990 James A. Roskind. All rights reserved.
