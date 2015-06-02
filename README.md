@@ -2,11 +2,19 @@
 
 ## Downloading
 
-To download, please click the "release" tab above.
+To download, please click the "release" tab above or use the links below.
+
+### Linux
+
+https://github.com/Manouchehri/Microchip-C18-Lite/releases/download/v3.47/mplabc18-v3.47-linux-lite-installer.run
+
+### OS X
+
+https://github.com/Manouchehri/Microchip-C18-Lite/releases/download/v3.47/mplabc18-v3.47-osx-lite-installer.tar
 
 ## Hashes
 
-`mplabc18-v3.47-linux-lite-installer.run`
+### mplabc18-v3.47-linux-lite-installer.run
 
 `sha512sum`
 ```
@@ -28,7 +36,7 @@ f9720cfc357aee242fbc323f84e45750cddf601329f1e3a4668f3f4a35d02b6f  mplabc18-v3.47
 1b79f6a55215fb2b1608e97f30bdc095  mplabc18-v3.47-linux-lite-installer.run
 ```
 
-`mplabc18-v3.47-osx-lite-installer.tar`
+### mplabc18-v3.47-osx-lite-installer.tar
 
 `sha512sum`
 ```
