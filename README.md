@@ -52,3 +52,8 @@ f4175ee851fc01da1057597e9ab819c3ddcb503867cad41b09575cccfcd860ba411425da8e2b0edc
 ```
 5a1bb49dcb6fb207ac329f030c1b6a4b8510e477  mplabc18-v3.47-osx-lite-installer.tar
 ```
+
+`md5sum`
+```
+c7f089b29a2ffe338b62c1e117c94528  mplabc18-v3.47-osx-lite-installer.tar
+```
