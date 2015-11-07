@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/18550/Manouchehri/Microchip-C18-Lite.svg)](https://zenodo.org/badge/latestdoi/18550/Manouchehri/Microchip-C18-Lite)
+
 # Microchip C18 Compiler - v3.47 Lite (Final) - Linux & OS X
 
 ## Downloading
